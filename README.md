@@ -2,6 +2,12 @@
 
 FocusGate ⏳🔐
 
+🚀 Live Demo
+🔗 **Demo Online:** 
+[🔗Click here to view the live demo](https://amirhosseinjamalian.github.io/FocusGate/)
+
+
+
 A smart countdown-based link generation system built with Vanilla JavaScript.
 
 This project prevents users from switching browser tabs while a countdown timer runs. Once the timer finishes, a download link is generated dynamically.
